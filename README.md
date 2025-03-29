@@ -1,12 +1,12 @@
-# 💻 Computer Science Student & Aspiring Code Wizard  
+# 💻 Computer Science Student 
 📍 Lees Summit, Missouri, United States  
-📬 brody@email.com | 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin) | 🧠 Actively Hunting Software Internships | 📅 Updated: 2025  
+📬 brody2003@icloud.com | 🌐 [LinkedIn](https://www.linkedin.com/in/brodynelly) | 🧠 Actively Hunting Software Internships | 📅 Updated: 2025  
 
 ---
 
 ## 👋 About Me  
 
-Hi, I’m **Brody** – computer science student by day, rock-climbing, coffee-guzzling code gremlin by night. I study at the **University of Missouri-Columbia**, where I juggle full-stack development projects, side quests in AI-driven pig analytics, and the occasional philosophical crisis over semicolon placement.  
+Hi, I’m **Brody** – computer science student by day, rock-climbing, coffee-guzzling code gremlin by night. I study at the **University of Missouri-Columbia**, where I juggle full-stack development projects, side quests in AI-driven livestock analytics, and the occasional philosophical crisis over semicolon placement.  
 
 My background's got more layers than an onion wearing a Patagonia fleece: health research, hotel valet hustle, and a stint abroad in London where I coded by day and dodged double-decker buses by night. I thrive on **solving gnarly problems**, **writing clean, punchy code**, and **collaborating with people who don’t take themselves too seriously but take their work very seriously**.  
 
@@ -105,10 +105,9 @@ If you’re looking for someone who can commit to the grind, deploy Docker conta
 
 I’m always down to chat about **tech, tacos, rock climbing**, or **how to survive a group project with your sanity intact**. If you’ve got an opportunity, a collab idea, or a burning question about Python list comprehensions, hit me up:  
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/your-linkedin)  
-- 👨‍💻 GitHub: [github.com/your-username](https://github.com/your-username)  
-
+- 📧 Email: brody2003@icloud.com 
+- 💼 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/brodynelly)  
+- 👨‍💻 GitHub: [github.com/your-username](https://github.com/brodynelly) 
 ---
 
 > _"The best way to predict the future is to invent it."_ – Alan Kay  
