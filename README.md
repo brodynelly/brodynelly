@@ -6,16 +6,14 @@
 
 ## 👋 About Me  
 
-Hi, I’m **Brody** – computer science student by day, rock-climbing, coffee-guzzling code gremlin by night. I study at the **University of Missouri-Columbia**, where I juggle full-stack development projects, side quests in AI-driven livestock analytics, and the occasional philosophical crisis over semicolon placement.  
-
-My background's got more layers than an onion wearing a Patagonia fleece: health research, hotel valet hustle, and a stint abroad in London where I coded by day and dodged double-decker buses by night. I thrive on **solving gnarly problems**, **writing clean, punchy code**, and **collaborating with people who don’t take themselves too seriously but take their work very seriously**.  
+Hi, I’m **Brody** – computer science student by day, coffee-addict code gremlin by night. I study at the **University of Missouri-Columbia**, where I juggle full-stack development projects, side quests in AI-driven livestock analytics, and the occasional philosophical crisis over semicolon placement.  
 
 If you’re looking for someone who can commit to the grind, deploy Docker containers like a madman, and also make puns about Java (the language *and* the coffee)—we might just be a match made in GitHub.  
 
 ---
 
 ## 🧠 Technical Skills  
-**Languages**: JavaScript, Python, Java, C++, SQL (Fluent in “screaming at the debugger” too)  
+**Languages**: JavaScript, Python, Java, C++, SQL 
 **Frameworks**: React.js, Next.js, Express.js, Django  
 **Databases**: MongoDB, PostgreSQL, MySQL  
 **Dev Tools**: Docker, Git, Node.js, REST APIs, Multer, VSCode  
