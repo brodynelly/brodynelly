@@ -1,6 +1,6 @@
 # 💻 Computer Science Student 
 📍 Lees Summit, Missouri, United States  
-📬 brody2003@icloud.com | 🌐 [LinkedIn](https://www.linkedin.com/in/brodynelly) | 🧠 Actively Hunting Software Internships | 📅 Updated: 2025  
+📬 brody2003@icloud.com | 🌐 [LinkedIn][(https://www.linkedin.com/in/brody-nelson-ab600027a)] | 🧠 Actively Hunting Software Internships | 📅 Updated: 2025  
 
 ---
 
@@ -104,8 +104,7 @@ If you’re looking for someone who can commit to the grind, deploy Docker conta
 I’m always down to chat about **tech, tacos, rock climbing**, or **how to survive a group project with your sanity intact**. If you’ve got an opportunity, a collab idea, or a burning question about Python list comprehensions, hit me up:  
 
 - 📧 Email: brody2003@icloud.com 
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/brodynelly)  
-- 👨‍💻 GitHub: [github.com/your-username](https://github.com/brodynelly) 
+- 💼 LinkedIn:[LinkedIn][(https://www.linkedin.com/in/brody-nelson-ab600027a)]
 ---
 
 > _"The best way to predict the future is to invent it."_ – Alan Kay  
