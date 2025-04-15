@@ -6,7 +6,7 @@
 
 ## 👋 About Me  
 
-Hi, I’m **Brody** – computer science student by day, coffee-addict code gremlin by night. I study at the **University of Missouri-Columbia**, where I juggle full-stack development projects, side quests in AI-driven livestock analytics, and the occasional philosophical crisis over semicolon placement.  
+Hi, I’m **Brody** – computer science student by day, coffee-addict code gremlin by night. I study at the **University of Missouri-Columbia**, where I juggle full-stack development projects, side quests in AI-driven data integration pipelines, and the occasional philosophical crisis over semicolon placement.  
 
 If you’re looking for someone who can commit to the grind, deploy Docker containers like a madman, and also make puns about Java (the language *and* the coffee)—we might just be a match made in GitHub.  
 
@@ -18,35 +18,7 @@ If you’re looking for someone who can commit to the grind, deploy Docker conta
 **Databases**: MongoDB, PostgreSQL, MySQL  
 **Dev Tools**: Docker, Git, Node.js, REST APIs, Multer, VSCode  
 **Infra Stuff**: Linux (aka my cozy terminal cave), DigitalOcean, NGINX  
-**Bonus Round**: Agile, Figma, Data Visualization, API Whisperer  
-
----
-
-## 🛠️ Projects That Keep Me Up at Night (In a Good Way)  
-
-### 📈 AI-Modeled Pig Data Management System  
-**Tech Stack**: Next.js, Express.js, MongoDB  
-- Built a farm research platform that makes pigs look like data science stars  
-- Designed schema for timestamped pig posture sorcery  
-- Handled AI-data ingestion faster than you can say “oink!”  
-- Visualized batch analytics because pigs deserve graphs too  
-
-### 🏥 ICARE Health Management System  
-**Tech Stack**: Django, Docker, HTML/CSS  
-- Secured health data with more layers than a security onion  
-- Rolled out role-based access so interns don’t accidentally delete the hospital  
-- Dockerized like a boss for sleek, repeatable deployments  
-
-### 🗣️ Article Translation App  
-**Tech Stack**: React, JavaScript, Node.js, MongoDB  
-- Built a real-time Spanish-to-English translator (no, Google Translate didn’t help)  
-- Frontend dev lead: optimized UI/UX like a caffeinated wizard  
-- Smooth API integration so fast it practically speaks fluent Español  
-
-### 📚 Library Management System  
-**Tech Stack**: MySQL, PHP (don’t judge me)  
-- Designed a DBMS to keep overdue books in check  
-- Engineered queries with precision to avoid librarian rage  
+**Bonus**: Agile, Figma, Data Visualization, API Whisperer  
 
 ---
 
@@ -79,8 +51,9 @@ If you’re looking for someone who can commit to the grind, deploy Docker conta
 
 **University of Missouri-Columbia**  
 🎓 *B.S. Computer Science (2022 – 2026)*  
-- Rock Climbing Club daredevil  
-- Intramural volleyball enthusiast (still chasing that perfect spike)  
+- Rock Climbing Club
+- Mizzou Satalite Research Group  
+- Intramural volleyball 
 - Member of RUF – growing in faith, community, and free snacks  
 
 **University of Westminster – London, UK**  
