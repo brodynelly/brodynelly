@@ -1,6 +1,6 @@
 # Computer Science Student 
 📍 Lees Summit, Missouri, United States  
-brody2003@icloud.com |  [LinkedIn](https://www.linkedin.com/in/brody-nelson-ab600027a) | [Portfolio](https://www.brodynelly.com) Actively Hunting Software Internships | 📅 Updated: 2025  
+Bsn3g9@umsystem.edu |  [LinkedIn](https://www.linkedin.com/in/brody-nelson-ab600027a) | [Portfolio](https://www.brodynelly.com) Actively Hunting Software Internships | 📅 Updated: 2025  
 
 ---
 
