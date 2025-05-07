@@ -13,12 +13,12 @@ If you’re looking for someone who can commit to the grind, deploy Docker conta
 ---
 
 ## Technical Skills  
-**Languages**: JavaScript, Python, Java, C++, SQL  
+**Languages**: JavaScript, Python, Java, C++, SQL, C/C# 
 **Frameworks**: React.js, Next.js, Express.js, Django  
 **Databases**: MongoDB, PostgreSQL, MySQL  
 **Dev Tools**: Docker, Git, Node.js, REST APIs, Multer, VSCode  
-**Infra Stuff**: Linux (aka my cozy terminal cave), DigitalOcean, NGINX  
-**Bonus**: Agile, Figma, Data Visualization, API Whisperer  
+**Infra Stuff**: Linux (aka my cozy terminal cave), NGINX  
+**Bonus**: Agile, Data Visualization, API Development  
 
 
 ---
