@@ -95,3 +95,13 @@ I'm a Computer Science student at the University of Missouri with a passion for 
 - **Email:** Bsn3g9@umsystem.edu
 
 Open to full-time SWE roles, internships, and collaboration on interesting projects.
+
+---
+
+### 🚀 Getting Started
+
+Interested in working together? Here's how to reach me:
+
+- Check out my **[portfolio](https://www.brodynelly.com)** for full project details
+- Browse my **[pinned repos](https://github.com/brodynelly?tab=repositories)** to see recent work
+- Send me an **[email](mailto:Bsn3g9@umsystem.edu)** with what you're working on
