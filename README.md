@@ -85,3 +85,13 @@ I'm a Computer Science student at the University of Missouri with a passion for 
 ![Profile Views](https://komarev.com/ghpvc/?username=brodynelly&color=blue&style=flat-square)
 
 </div>
+
+---
+
+### 📫 Getting in Touch
+
+- **Portfolio:** [brodynelly.com](https://www.brodynelly.com)
+- **LinkedIn:** [brody-nelson](https://www.linkedin.com/in/brody-nelson-ab600027a)
+- **Email:** Bsn3g9@umsystem.edu
+
+Open to full-time SWE roles, internships, and collaboration on interesting projects.
