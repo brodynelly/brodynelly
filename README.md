@@ -53,20 +53,6 @@ I'm a Computer Science student at the University of Missouri with a passion for 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Brody's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brodynelly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brodynelly&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brodynelly&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 📫 Getting in Touch
 
 - **Portfolio:** [brodynelly.com](https://www.brodynelly.com)
