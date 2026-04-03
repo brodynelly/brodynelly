@@ -67,27 +67,6 @@ I'm a Computer Science student at the University of Missouri with a passion for 
 
 ---
 
-### 🏆 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Healthcare Dashboard](https://github.com/brodynelly/mizzou-health-care-dashboard) | Full-stack healthcare management system with cross-platform containerized deployment | Django, PostgreSQL, Docker |
-| [Agricultural Labs Dashboard](https://github.com/brodynelly/mizzou-digital-agricultural-labs-dashboard) | PAAL full-stack web service and database with NGINX reverse proxy | Next.js, Express.js, MongoDB, Docker |
-| [ML Stock Prediction](https://github.com/brodynelly/ML-stock-prediction-webpage) | Stock prediction web app using FBProphet ML model on yFinance data | Python, FBProphet, yFinance |
-| [Journaling App](https://github.com/brodynelly/journaling--web-application) | Daily journaling application with drawable entries for iPad | TypeScript, React |
-
----
-
-<div align="center">
-
-*💬 Feel free to reach out if you want to collaborate or chat about tech!*
-
-![Profile Views](https://komarev.com/ghpvc/?username=brodynelly&color=blue&style=flat-square)
-
-</div>
-
----
-
 ### 📫 Getting in Touch
 
 - **Portfolio:** [brodynelly.com](https://www.brodynelly.com)
