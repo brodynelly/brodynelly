@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Brody Nelson 👋
+# Hey there, I'm Brody Nelson 
 
 **Full-Stack Developer | CS Student at the University of Missouri**
 
@@ -12,19 +12,19 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a Computer Science student at the University of Missouri with a passion for building full-stack web applications and data-driven solutions. I love working across the entire stack — from designing intuitive UIs to architecting scalable backend services and containerized deployments.
 
-- 🔭 Currently working on **full-stack projects** with Django, Next.js, and Docker
-- 🌱 Exploring **machine learning** and stock prediction models
-- 👯 Open to collaborating on **open-source projects** and real-world applications
-- 🎯 Actively seeking **software engineering opportunities**
-- 🧗 Fun fact: I'm an active member of the University Rock Climbing Club
+-  Currently working on **full-stack projects** with Django, Next.js, and Docker
+-  Exploring **machine learning** and stock prediction models
+-  Open to collaborating on **open-source projects** and real-world applications
+-  Actively seeking **software engineering opportunities**
+-  Fun fact: I'm an active member of the University Rock Climbing Club
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -53,7 +53,7 @@ I'm a Computer Science student at the University of Missouri with a passion for 
 
 ---
 
-### 📫 Getting in Touch
+### Getting in Touch
 
 - **Portfolio:** [brodynelly.com](https://www.brodynelly.com)
 - **LinkedIn:** [brody-nelson](https://www.linkedin.com/in/brody-nelson-ab600027a)
